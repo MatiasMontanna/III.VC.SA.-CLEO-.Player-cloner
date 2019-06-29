@@ -1,5 +1,1 @@
-# English: [III|VC|SA - CLEO] Player cloner
-Clone your player: (Claude Speed, GTAIII. Tommy Vercetti, GTA Vice City. Carl Johnson, GTA San Andreas) pressing T + L. Needs CLEO.
-
-# Español: [III|VC|SA - CLEO] Clonador de protagonista
-Clona tu personaje: (Claude Speed, GTAIII. Tommy Vercetti, GTA Vice City. Carl Johnson, GTA San Andreas) presionando T + L. Necesita CLEO.
+**Outdated**: go to https://github.com/RockstarMontannaStudio/III.VC.-CLEO-.Player-Cloner for updated information!
